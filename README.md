@@ -1,4 +1,4 @@
-# Snake with Python
+# Snake Game with Python
 
 This is my first project with Python.
 
